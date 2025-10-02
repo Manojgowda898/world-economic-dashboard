@@ -49,7 +49,7 @@ Instead of manually collecting economic data, the dashboard:
 ## 📂 Project Structure
 
 ## 📂 Project Structure
-
+```
 world-economic-dashboard/
 ├── __pycache__/          # Python cache
 ├── cache/                # Cached API responses
@@ -64,7 +64,7 @@ world-economic-dashboard/
 ├── run_dashboard.py      # Smart launcher script
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
-
+```
 
 ---
 
@@ -82,28 +82,37 @@ world-economic-dashboard/
 
 
 # Clone repository
+```
 git clone https://github.com/Manojgowda898/world-economic-dashboard.git
 cd world-economic-dashboard
+```
 
 # (Optional) Create virtual environment
+```
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
+```
 
 # Install dependencies
+```
 pip install -r requirements.txt
+```
 
 ---
 
 ## ▶️ How to Run
 
 ### 1. Launch Dashboard
-
+```
 python run_dashboard.py
+```
 
 ### 2. Open in Browser
+```
 - **Local URL:** [http://localhost:8050](http://localhost:8050)  
-- **Network URL:** [http://0.0.0.0:8050](http://0.0.0.0:8050)  
+- **Network URL:** [http://0.0.0.0:8050](http://0.0.0.0:8050) 
+``` 
 
 ### 3. Optional Steps
 - Run detailed system diagnostics (memory, disk, internet)  
