@@ -45,7 +45,6 @@ Instead of manually collecting economic data, the dashboard:
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
 ```
 world-economic-dashboard/
 ├── __pycache__/          # Python cache
@@ -76,7 +75,6 @@ world-economic-dashboard/
 ---
 
 ## ⚡ Installation Guide
-
 
 # Clone repository
 ```
@@ -109,8 +107,6 @@ python run_dashboard.py
 | Local URL | Network URL |
 |-----------|-------------|
 | [http://localhost:8050](http://localhost:8050) | [http://0.0.0.0:8050](http://0.0.0.0:8050) |
-
-
 
 ### 3. Optional Steps
 - Run detailed system diagnostics (memory, disk, internet)  
