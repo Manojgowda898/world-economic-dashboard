@@ -106,13 +106,11 @@ python run_dashboard.py
 ```
 
 ### 2. Open in Browser
-```
 | Local URL | Network URL |
 |-----------|-------------|
 | [http://localhost:8050](http://localhost:8050) | [http://0.0.0.0:8050](http://0.0.0.0:8050) |
 
- 
-``` 
+
 
 ### 3. Optional Steps
 - Run detailed system diagnostics (memory, disk, internet)  
