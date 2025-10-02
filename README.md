@@ -4,7 +4,7 @@
 [![Dash](https://img.shields.io/badge/dash-2.14.1-orange)](https://dash.plotly.com/)  
 [![Plotly](https://img.shields.io/badge/plotly-5.15.0-purple)](https://plotly.com/python/)  
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/world-economic-dashboard)](https://github.com/your-username/world-economic-dashboard)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Manojgowda898/world-economic-dashboard)](https://github.com/Manojgowda898/world-economic-dashboard)
 
 An **interactive, real-time economic data analysis platform** powered by the **World Bank Open Data API**.  
 Analyze, visualize, and export **economic indicators for 200+ countries** in a professional, intuitive dashboard interface.
@@ -77,9 +77,9 @@ world-economic-dashboard/
 
 ## ⚡ Installation Guide
 
-```bash
+
 # Clone repository
-git clone https://github.com/your-username/world-economic-dashboard.git
+git clone https://github.com/Manojgowda898/world-economic-dashboard.git
 cd world-economic-dashboard
 
 # (Optional) Create virtual environment
@@ -95,7 +95,7 @@ pip install -r requirements.txt
 ## ▶️ How to Run
 
 ### 1. Launch Dashboard
-```bash
+
 python run_dashboard.py
 
 ### 2. Open in Browser
@@ -108,10 +108,10 @@ python run_dashboard.py
 
 ## 📸 Screenshots & Demo
 - ![Dashboard Home](screenshots/dashboard.png)
-- **Country & Indicator Selection** (screenshots/data_control.png)
-- **Multi-Indicator Visualization** (screenshots/Multi-Indicator.png) 
-- **PDF Export Example**  (exports/pdf/example.pdf)
-- **Project Demo** (screenshots/demo.gif)
+- ![Country & Indicator Selection] (screenshots/data_control.png)
+- ![Multi-Indicator Visualization] (screenshots/Multi-Indicator.png) 
+- ![PDF Export Example]  (exports/pdf/example.pdf)
+- ![Project Demo] (screenshots/demo.gif)
 
 ## 🔄 Workflow
 
