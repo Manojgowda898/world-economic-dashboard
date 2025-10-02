@@ -114,19 +114,19 @@ python run_dashboard.py
 
 ## 📸 Screenshots & Demo
 
-### Dashboard Home
+* ### Dashboard Home
 ![Dashboard Home](screenshots/dashboard.png)
 
-### Country & Indicator Selection
+* ### Country & Indicator Selection
 ![Country & Indicator Selection](screenshots/data_control.png)
 
-### Multi-Indicator Visualization
+* ### Multi-Indicator Visualization
 ![Multi-Indicator Visualization](screenshots/Multi-Indicator.png)
 
-### Project Demo
+* ### Project Demo
 ![Project Demo](screenshots/demo.gif)
 
-### PDF Export Example
+* ### PDF Export Example
 [View PDF Export Example](screenshots/example.pdf)
 
 ---
