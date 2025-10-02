@@ -133,6 +133,8 @@ python run_dashboard.py
 ### PDF Export Example
 [View PDF Export Example](screenshots/example.pdf)
 
+---
+
 ## 🔄 Workflow
 
 1.  Launch `run_dashboard.py`
