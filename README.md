@@ -128,7 +128,7 @@ python run_dashboard.py
 ![Multi-Indicator Visualization](screenshots/Multi-Indicator.png)
 
 ### PDF Export Example
-[View PDF Export Example](exports/pdf/example.pdf)
+[View PDF Export Example](screenshots/example.pdf)
 
 ### Project Demo
 ![Project Demo](screenshots/demo.gif)
