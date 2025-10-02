@@ -76,20 +76,20 @@ world-economic-dashboard/
 
 ## ⚡ Installation Guide
 
-# Clone repository
+### Clone repository
 ```
 git clone https://github.com/Manojgowda898/world-economic-dashboard.git
 cd world-economic-dashboard
 ```
 
-# (Optional) Create virtual environment
+### (Optional) Create virtual environment
 ```
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 ```
 
-# Install dependencies
+### Install dependencies
 ```
 pip install -r requirements.txt
 ```
