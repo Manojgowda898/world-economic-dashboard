@@ -1,4 +1,4 @@
-# 🌍 Global Economic Dashboard
+# 🌍 World Economic Dashboard
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/) <br>
 [![Dash](https://img.shields.io/badge/dash-2.14.1-orange)](https://dash.plotly.com/) <br>
