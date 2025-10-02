@@ -158,8 +158,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ## 🤝 Contributing
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting issues or pull requests.
 
-Contributions are welcome! Please check [CONTRIBUTION](CONTRIBUTING.md).
 
 ---
 
