@@ -82,7 +82,7 @@ git clone https://github.com/Manojgowda898/world-economic-dashboard.git
 cd world-economic-dashboard
 ```
 
-### (Optional) Create virtual environment
+### Create virtual environment (Optional)
 ```
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
