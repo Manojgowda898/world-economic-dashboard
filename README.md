@@ -107,11 +107,11 @@ python run_dashboard.py
 - Import custom CSV datasets for analysis  
 
 ## 📸 Screenshots & Demo
-- ![Dashboard Home](screenshots/dashboard.png)
-- ![Country & Indicator Selection] (screenshots/data_control.png)
-- ![Multi-Indicator Visualization] (screenshots/Multi-Indicator.png) 
-- ![PDF Export Example]  (exports/pdf/example.pdf)
-- ![Project Demo] (screenshots/demo.gif)
+![Dashboard Home](screenshots/dashboard.png)
+![Country & Indicator Selection] (screenshots/data_control.png)
+![Multi-Indicator Visualization] (screenshots/Multi-Indicator.png) 
+![PDF Export Example]  (exports/pdf/example.pdf)
+![Project Demo] (screenshots/demo.gif)
 
 ## 🔄 Workflow
 
