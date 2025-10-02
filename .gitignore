@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# App-specific temporary folders
+cache/
+logs/
+temp_uploads/
+
+# Exports - ignore files, keep folder structure using .gitkeep
+exports/*.*
+!exports/.gitkeep
+exports/csv/*.*
+!exports/csv/.gitkeep
+exports/pdf/*.*
+!exports/pdf/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
