@@ -107,8 +107,8 @@ python run_dashboard.py
 
 ### 2. Open in Browser
 ```
-Local URL: [http://localhost:8050](http://localhost:8050)  
-Network URL: [http://0.0.0.0:8050](http://0.0.0.0:8050) 
+Local URL: [http://localhost:8050](http://localhost:8050) | Network URL: [http://0.0.0.0:8050](http://0.0.0.0:8050)
+ 
 ``` 
 
 ### 3. Optional Steps
