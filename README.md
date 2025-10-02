@@ -48,20 +48,23 @@ Instead of manually collecting economic data, the dashboard:
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 world-economic-dashboard/
-│── pycache/ # Python cache
-│── cache/ # Cached API responses
-│── exports/ # Exported analysis
-│ ├── csv/ # CSV exports
-│ └── pdf/ # PDF exports
-│── logs/ # Application logs
-│── screenshots/ # Project screenshots
-│── temp_uploads/ # User-uploaded CSV files
-│── config.py # Configuration file (API keys, paths)
-│── main.py # Main dashboard application (Dash)
-│── run_dashboard.py # Smart launcher script
-│── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── __pycache__/          # Python cache
+├── cache/                # Cached API responses
+├── exports/              # Exported analysis
+│   ├── csv/              # CSV exports
+│   └── pdf/              # PDF exports
+├── logs/                 # Application logs
+├── screenshots/          # Project screenshots
+├── temp_uploads/         # User-uploaded CSV files
+├── config.py             # Configuration file (API keys, paths)
+├── main.py               # Main dashboard application (Dash)
+├── run_dashboard.py      # Smart launcher script
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+
 
 ---
 
