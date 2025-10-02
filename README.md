@@ -1,11 +1,11 @@
 # 🌍 World Economic Dashboard
-
+```
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/) <br>
 [![Dash](https://img.shields.io/badge/dash-2.14.1-orange)](https://dash.plotly.com/) <br>
 [![Plotly](https://img.shields.io/badge/plotly-5.15.0-purple)](https://plotly.com/python/) <br>
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE) <br>
 [![GitHub last commit](https://img.shields.io/github/last-commit/Manojgowda898/world-economic-dashboard)](https://github.com/Manojgowda898/world-economic-dashboard)
-
+```
 An **interactive, real-time economic data analysis platform** powered by the **World Bank Open Data API**.  
 Analyze, visualize, and export **economic indicators for 200+ countries** in a professional, intuitive dashboard interface.
 
