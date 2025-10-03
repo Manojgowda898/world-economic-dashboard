@@ -5,7 +5,7 @@ Thank you for your interest in contributing to the Cybersecurity Threat Detectio
 ## How to Contribute
 
 ### 1. Reporting Issues
-- Use the GitHub [Issues](https://github.com/Manojgowda898/cybersecurity_threat_detection/issues) tab to report bugs or suggest features.
+- Use the GitHub [Issues](https://github.com/Manojgowda898/world-economic-dashboard/issues) tab to report bugs or suggest features.
 - Provide clear and concise information, including steps to reproduce any bugs.
 
 ### 2. Feature Requests
